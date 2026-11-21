@@ -62,11 +62,15 @@ Ghi chú: CVAT export riêng từng task, nên em đã gộp `front` + `front-ex
 
 2. Một ảnh camera trước đã gán đủ (làn, vùng lái, đèn/biển):
 
-   Do ảnh dataset BDD100K có điều khoản bản quyền không được đưa công khai lên repo GitHub nên em lưu riêng file `2-front.png` và gửi trực tiếp cho coach kiểm tra.
+   ![Ảnh front đã gán](images/2-front.png)
+
+   *Dữ liệu BDD100K © 2018 The Regents of the University of California, theo BDD100K License.*
 
 3. Một ảnh fisheye đã gán, phóng to đoạn polyline cong:
 
-   Do ảnh dataset WoodScape có điều khoản không cho phân phối lại nên em lưu riêng file `3-fisheye.png` và gửi trực tiếp cho coach kiểm tra.
+   ![Ảnh fisheye, polyline cong](images/3-fisheye.png)
+
+   *Ảnh WoodScape (Valeo), Yogamani et al., ICCV 2019.*
 
 4. Một đoạn XML có `<polyline label="lane">`:
 
