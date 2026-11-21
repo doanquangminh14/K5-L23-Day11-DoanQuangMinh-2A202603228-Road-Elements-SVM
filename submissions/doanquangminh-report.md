@@ -4,6 +4,8 @@ Phiên bản CVAT (Help → About): 2.74.1
 Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 1  
 Thời điểm export (ngày giờ trên CVAT): 21/11/2026, khoảng 11:13 (giờ Việt Nam; XML ghi 04:13 UTC)    Số lần nộp lại sau Rework: 0  
 
+**Ảnh thêm (điểm thưởng):** đã làm đủ 8/8 ảnh A13–A16 và B09–B12; nằm trong `doanquangminh-front.zip` (16 ảnh) và `doanquangminh-fisheye.zip` (12 ảnh).
+
 ## 1. Kiểm project
 | Mục | Đúng như guideline Road v1.0? | Ghi chú |
 | --- | --- | --- |
